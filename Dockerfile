@@ -17,6 +17,7 @@ RUN set -eux; \
         zlib1g-dev \
         libzip-dev \
         libxml2-dev \
+        ssh \
     ; \
     \
     wget -c \
