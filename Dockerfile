@@ -18,6 +18,7 @@ RUN set -eux; \
         libzip-dev \
         libxml2-dev \
         ssh \
+        ghostscript \
     ; \
     \
     wget -c \
