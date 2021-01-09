@@ -45,7 +45,7 @@ RUN set -eux; \
         opcache \
         zip \
         gd \
-        mysql \
+        mysqli \
         pcntl \
         calendar \
         json \
